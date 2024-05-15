@@ -8,7 +8,10 @@
 .background{
     width: 100vw;
     height: 100vh;
-    background: dodgerblue;
+    background-image: url("assets/peakpx.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -44,4 +47,17 @@ form .display input{
 }
 form input.equal{
     width: 145px;
+    background: firebrick;
+}
+#colour1{
+    background: firebrick;
+}
+#colour2{
+    background: firebrick;
+}
+.brand{
+    color: white;
+    font-family: Bahnschrift;
+    font-size: 15px;
+    margin-left: 5px;
 }
