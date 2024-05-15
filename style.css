@@ -47,13 +47,13 @@ form .display input{
 }
 form input.equal{
     width: 145px;
-    background: firebrick;
+    background: orangered;
 }
 #colour1{
-    background: firebrick;
+    background: orangered;
 }
 #colour2{
-    background: firebrick;
+    background: orangered;
 }
 .brand{
     color: white;
