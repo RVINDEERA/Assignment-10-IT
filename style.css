@@ -13,3 +13,19 @@
     align-items: center;
     justify-content: center;
 }
+
+.calculator{
+    background: #191919;
+    padding: 20px;
+    border-radius:10px ;
+}
+
+.calculator>form input{
+    width: 60px;
+    aspect-ratio: 1/1;
+    font-size: 20px;
+    background: transparent;
+    color: white;
+    margin: 5px;
+    border-radius: 10px;
+}
